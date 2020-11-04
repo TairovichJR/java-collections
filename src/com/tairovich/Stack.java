@@ -40,7 +40,4 @@ public class Stack {
     public boolean isEmpty(){
         return top<=0;
     }
-
-
-
 }
