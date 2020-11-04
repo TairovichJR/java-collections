@@ -1,6 +1,7 @@
 package com.tairovich;
 
 public class Node {
+
     int data;
     Node next;
 
