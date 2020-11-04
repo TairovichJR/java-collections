@@ -12,7 +12,7 @@ public class _Vector {
         // Arraylist methods are not, not thread-safe making it fast
         //Vector capacity increases by 100%, takes up more memory
         //Arraylist capacity increases by 50% takes up less memory
-        //Finaally Vectors are outdated and not a good approach to used in projects, instead use ArrayList
+        //Finally Vectors are outdated and not a good approach to used in projects, instead use ArrayList
 
         //Default capacity of Vector is 10
         //THat means if you add 10 elements and add the 11th element, the capacity will increase
