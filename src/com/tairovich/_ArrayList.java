@@ -26,6 +26,5 @@ public class _ArrayList {
         arrayList3.add(5);
         arrayList3.add(6);
 
-
     }
 }
