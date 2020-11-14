@@ -21,5 +21,6 @@ public class RemoveDuplicateElements {
         List<Integer> uniqueNumes2 = numbers.stream().distinct().collect(Collectors.toList());
         System.out.println(uniqueNumes2);
 
+
     }
 }
