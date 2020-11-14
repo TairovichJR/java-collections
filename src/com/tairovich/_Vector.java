@@ -44,6 +44,5 @@ public class _Vector {
         System.out.println(intVector.capacity());
         System.out.println();
 
-
     }
 }
